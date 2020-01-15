@@ -1,0 +1,14 @@
+[package]
+name = "wrapang"
+version = "0.1.0"
+authors = ["SOFe <sofe2038@gmail.com>"]
+edition = "2018"
+license = "Apache-2.0"
+repository = "https://github.com/SOF3/wrapang"
+homepage = "https://github.com/SOF3/wrapang"
+readme = "README.md"
+description = "Represent angles in a wrapping integer field"
+
+[dependencies]
+derive_more = "0.99.2"
+
